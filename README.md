@@ -10,12 +10,18 @@ Somente para meu desenvolvimento intelectual com a linguagem python.
 
 Todos os dados extraídos dos arquivos csv foram obtidos no site da base comércio exterior brasil 
 
+----------------------------------------------------
 http://comexstat.mdic.gov.br/pt/home
+----------------------------------------------------
+
+Para executar o programa baixe dois arquivos csv do site acima
+Um importação e outro de exportação
+
 
 O arquivo script_completo.py executa as seguintes funções:
 
 1 - Coleta e unifica os seguintes dados "CO_MES", "CO_NCM", "SG_UF_NCM", "VL_FOB".
-Dos arquivos "EXP_2022.csv" & "IMP_2022.csv"
+Dos arquivos EX: "EXP_2022.csv" & "IMP_2022.csv"
 
 2 - Identificação do valores por "NCM"
 
@@ -41,7 +47,13 @@ It was developed solely for my intellectual development using the Python languag
 
 All the data extracted from the CSV files was obtained from the Brazilian foreign trade database website.
 
+----------------------------------------------------
 http://comexstat.mdic.gov.br/pt/home
+----------------------------------------------------
+
+To run the program, download two CSV files from the website mentioned above.
+One for imports and another for exports.
+
 
 The script_completo.py file performs the following functions:
 
